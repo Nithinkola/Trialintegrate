@@ -1,0 +1,20 @@
+2022-11-08 23:10:33,600 :INFO :test_logging :Information statement
+2022-11-08 23:10:33,601 :WARNING :test_logging :Something is in warning mode
+2022-11-08 23:10:33,601 :ERROR :test_logging :A major error has occured
+2022-11-08 23:10:33,601 :CRITICAL :test_logging :Critical issue
+2022-11-08 23:26:54,643 :INFO :pytestsDemo.BaseClass :Rahul
+2022-11-08 23:29:40,825 :INFO :pytestsDemo.BaseClass :Rahul
+2022-11-08 23:30:34,519 :INFO :pytestsDemo.BaseClass :Rahul
+2022-11-08 23:31:12,857 :INFO :pytestsDemo.BaseClass :Rahul
+2022-11-08 23:32:17,360 :DEBUG :test_logging :A debug statement is executed.
+2022-11-08 23:32:17,360 :INFO :test_logging :Information statement
+2022-11-08 23:32:17,361 :WARNING :test_logging :Something is in warning mode
+2022-11-08 23:32:17,361 :ERROR :test_logging :A major error has occured
+2022-11-08 23:32:17,361 :CRITICAL :test_logging :Critical issue
+2022-11-08 23:32:41,719 :INFO :pytestsDemo.BaseClass :Rahul
+2022-11-08 23:38:26,288 :INFO :test_editprofile :Rahul
+2022-11-09 23:06:43,256 :INFO :test_editprofile :Rahul
+2022-11-09 23:06:43,328 :INFO :test_logging :Information statement
+2022-11-09 23:06:43,328 :WARNING :test_logging :Something is in warning mode
+2022-11-09 23:06:43,329 :ERROR :test_logging :A major error has occured
+2022-11-09 23:06:43,329 :CRITICAL :test_logging :Critical issue
