@@ -2,7 +2,7 @@
 values = [1, 2, "Nithin", 4.2, 6]
 
 # List is a datatype that allows multiple  values and can be different data types.
-print(values[0]
+print(values[0])
 print(values[2])
 print(values[3])
 
