@@ -5,7 +5,7 @@ values = [1, 2, "Nithin", 4.2, 6]
 print(values[0])
 print(values[2])
 print(values[3])
-print("===")
+print("======")
 print("\nAll elements in List Using range function:")
 for i in range(5):
     print(values[i])
